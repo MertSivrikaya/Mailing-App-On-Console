@@ -1,4 +1,4 @@
-# Mailing-App-On-Console
+# mailing-app-on-console
 A mailing application that employs a multi-threaded server to concurrently handle multiple users, implemented using Java socket programming with a custom, self-defined protocol. The backend communicates with a PostgreSQL database through JDBC.
 
 Users must first log in to access the application's functionalities. There are two types of users: non-admin users and admin users.
